@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<getDsitanceToNoseTipInOneFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Distances>
+    <double>0.18875674606710913</double>
+    <double>0.23790856619251843</double>
+    <double>0</double>
+    <double>0.74580768590613855</double>
+    <double>0.055933662225698955</double>
+    <double>0.39901296087684057</double>
+    <double>0.073752813045030452</double>
+    <double>0.099138464610765142</double>
+    <double>0.114708993535384</double>
+    <double>0.00897677162765842</double>
+    <double>0.33562929338182279</double>
+    <double>0.021237647520183645</double>
+    <double>0.0516805295677214</double>
+    <double>0.042070979879044179</double>
+    <double>0.57509421834493757</double>
+    <double>0.34766552140473583</double>
+    <double>0.099246797858443259</double>
+    <double>0.37527092721621746</double>
+    <double>0.3700480335006584</double>
+    <double>0.13812340419026847</double>
+    <double>0.22757414781465757</double>
+    <double>0.26806211074859032</double>
+    <double>0.39479409954551459</double>
+    <double>0.24839078409458204</double>
+    <double>0.081950610500078347</double>
+    <double>0.040010228672143766</double>
+    <double>0.022839554203513135</double>
+    <double>0.10567169261180287</double>
+  </Distances>
+</getDsitanceToNoseTipInOneFrame>

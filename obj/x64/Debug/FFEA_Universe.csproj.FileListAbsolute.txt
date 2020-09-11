@@ -1,0 +1,270 @@
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Accord.dll.config
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\FFEA_Universe.exe.config
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\FFEA_Universe.exe
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\FFEA_Universe.pdb
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Accord.dll
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Accord.MachineLearning.dll
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Accord.Math.Core.dll
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Accord.Math.dll
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Caliburn.Micro.dll
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Caliburn.Micro.Telerik.dll
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\UnityEngine.dll
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Accord.xml
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Accord.MachineLearning.xml
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Accord.Math.xml
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Accord.Math.Core.xml
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Accord.Statistics.xml
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Caliburn.Micro.pdb
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Caliburn.Micro.xml
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Caliburn.Micro.Telerik.pdb
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\lijia\Desktop\FFEA Universe right\bin\x64\Debug\System.Windows.Interactivity.xml
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\FFEA_Universe.csprojAssemblyReference.cache
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\grpahPage.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\FeatureExeractionForAll.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\featureExtraction.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\MainWindow.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\App.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\FFEA_Universe_Content.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\FFEA_Universe_MarkupCompile.cache
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\FFEA_Universe_MarkupCompile.lref
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\grpahPage.baml
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\FeatureExeractionForAll.baml
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\featureExtraction.baml
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\MainWindow.baml
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\FFEA_Universe.g.resources
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\FFEA_Universe.csproj.GenerateResource.cache
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\FFEA_Universe.csproj.CoreCompileInputs.cache
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\FFEA_Universe.csproj.CopyComplete
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\FFEA_Universe.exe
+C:\Users\lijia\Desktop\FFEA Universe right\obj\x64\Debug\FFEA_Universe.pdb
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Accord.dll.config
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\FFEA_Universe.exe.config
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\FFEA_Universe.exe
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\FFEA_Universe.pdb
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Accord.dll
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Accord.MachineLearning.dll
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Accord.Math.Core.dll
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Accord.Math.dll
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Caliburn.Micro.dll
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Caliburn.Micro.Telerik.dll
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\UnityEngine.dll
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Accord.xml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Accord.MachineLearning.xml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Accord.Math.xml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Accord.Math.Core.xml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Accord.Statistics.xml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Caliburn.Micro.pdb
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Caliburn.Micro.xml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Caliburn.Micro.Telerik.pdb
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\bin\x64\Debug\System.Windows.Interactivity.xml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\FFEA_Universe.csprojAssemblyReference.cache
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\grpahPage.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\FeatureExeractionForAll.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\featureExtraction.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\MainWindow.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\App.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\FFEA_Universe_Content.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\FFEA_Universe_MarkupCompile.cache
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\FFEA_Universe_MarkupCompile.lref
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\grpahPage.baml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\FeatureExeractionForAll.baml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\featureExtraction.baml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\MainWindow.baml
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\FFEA_Universe.g.resources
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\FFEA_Universe.csproj.GenerateResource.cache
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\FFEA_Universe.csproj.CoreCompileInputs.cache
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\FFEA_Universe.csproj.CopyComplete
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\FFEA_Universe.exe
+C:\Users\lijia\Desktop\FFEA Universe right - Copy\obj\x64\Debug\FFEA_Universe.pdb
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Accord.dll.config
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\FFEA_Universe.exe.config
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\FFEA_Universe.exe
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\FFEA_Universe.pdb
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Accord.dll
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Accord.MachineLearning.dll
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Accord.Math.Core.dll
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Accord.Math.dll
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Caliburn.Micro.dll
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Caliburn.Micro.Telerik.dll
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\UnityEngine.dll
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Accord.xml
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Accord.MachineLearning.xml
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Accord.Math.xml
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Accord.Math.Core.xml
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Accord.Statistics.xml
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Caliburn.Micro.pdb
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Caliburn.Micro.xml
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Caliburn.Micro.Telerik.pdb
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\lijia\Desktop\FFEA Universe rights\bin\x64\Debug\System.Windows.Interactivity.xml
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\FFEA_Universe.csprojAssemblyReference.cache
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\featureExtraction.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\MainWindow.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\App.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\FFEA_Universe_Content.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\FFEA_Universe_MarkupCompile.cache
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\FFEA_Universe_MarkupCompile.lref
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\featureExtraction.baml
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\MainWindow.baml
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\FFEA_Universe.g.resources
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\FFEA_Universe.csproj.GenerateResource.cache
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\FFEA_Universe.csproj.CoreCompileInputs.cache
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\FFEA_Universe.csproj.CopyComplete
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\FFEA_Universe.exe
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\FFEA_Universe.pdb
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\Statistic.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights\obj\x64\Debug\Statistic.baml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Accord.dll.config
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\FFEA_Universe.exe.config
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\FFEA_Universe.exe
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\FFEA_Universe.pdb
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Accord.dll
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Accord.MachineLearning.dll
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Accord.Math.Core.dll
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Accord.Math.dll
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Caliburn.Micro.dll
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Caliburn.Micro.Telerik.dll
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\UnityEngine.dll
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Accord.xml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Accord.MachineLearning.xml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Accord.Math.xml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Accord.Math.Core.xml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Accord.Statistics.xml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Caliburn.Micro.pdb
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Caliburn.Micro.xml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Caliburn.Micro.Telerik.pdb
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\bin\x64\Debug\System.Windows.Interactivity.xml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\FFEA_Universe.csprojAssemblyReference.cache
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\Statistic.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\FeatureExeractionForAll.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\featureExtraction.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\MainWindow.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\App.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\FFEA_Universe_Content.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\FFEA_Universe_MarkupCompile.cache
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\FFEA_Universe_MarkupCompile.lref
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\Statistic.baml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\FeatureExeractionForAll.baml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\featureExtraction.baml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\MainWindow.baml
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\FFEA_Universe.g.resources
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\FFEA_Universe.csproj.GenerateResource.cache
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\FFEA_Universe.csproj.CoreCompileInputs.cache
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\FFEA_Universe.csproj.CopyComplete
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\FFEA_Universe.exe
+C:\Users\lijia\Desktop\FFEA Universe rights - Copy\obj\x64\Debug\FFEA_Universe.pdb
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Accord.dll.config
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\FFEA_Universe.exe.config
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\FFEA_Universe.exe
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\FFEA_Universe.pdb
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Accord.dll
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Accord.MachineLearning.dll
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Accord.Math.Core.dll
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Accord.Math.dll
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Caliburn.Micro.dll
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Caliburn.Micro.Telerik.dll
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\UnityEngine.dll
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Accord.xml
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Accord.MachineLearning.xml
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Accord.Math.xml
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Accord.Math.Core.xml
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Accord.Statistics.xml
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Caliburn.Micro.pdb
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Caliburn.Micro.xml
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Caliburn.Micro.Telerik.pdb
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\lijia\Desktop\FFEA Universe rights1010\bin\x64\Debug\System.Windows.Interactivity.xml
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\FFEA_Universe.csprojAssemblyReference.cache
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\Statistic.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\featureExtraction.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\MainWindow.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\App.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\FFEA_Universe_Content.g.cs
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\FFEA_Universe_MarkupCompile.cache
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\FFEA_Universe_MarkupCompile.lref
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\Statistic.baml
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\featureExtraction.baml
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\MainWindow.baml
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\FFEA_Universe.g.resources
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\FFEA_Universe.csproj.GenerateResource.cache
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\FFEA_Universe.csproj.CoreCompileInputs.cache
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\FFEA_Universe.csproj.CopyComplete
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\FFEA_Universe.exe
+C:\Users\lijia\Desktop\FFEA Universe rights1010\obj\x64\Debug\FFEA_Universe.pdb
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Accord.dll.config
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\FFEA_Universe.exe.config
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\FFEA_Universe.exe
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\FFEA_Universe.pdb
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Accord.dll
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Accord.MachineLearning.dll
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Accord.Math.Core.dll
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Accord.Math.dll
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Accord.Statistics.dll
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Caliburn.Micro.dll
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Caliburn.Micro.Telerik.dll
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\System.Windows.Interactivity.dll
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\UnityEngine.dll
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Accord.xml
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Accord.MachineLearning.xml
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Accord.Math.xml
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Accord.Math.Core.xml
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Accord.Statistics.xml
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Caliburn.Micro.pdb
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Caliburn.Micro.xml
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Caliburn.Micro.Telerik.pdb
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\lijia\Desktop\FFEA Universe right version\bin\x64\Debug\System.Windows.Interactivity.xml
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\Statistic.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\featureExtraction.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\MainWindow.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\App.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\FFEA_Universe_Content.g.cs
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\FFEA_Universe_MarkupCompile.cache
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\FFEA_Universe_MarkupCompile.lref
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\Statistic.baml
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\featureExtraction.baml
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\MainWindow.baml
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\FFEA_Universe.g.resources
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\FFEA_Universe.csproj.GenerateResource.cache
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\FFEA_Universe.csproj.CoreCompileInputs.cache
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\FFEA_Universe.csproj.CopyComplete
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\FFEA_Universe.exe
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\FFEA_Universe.pdb
+C:\Users\lijia\Desktop\FFEA Universe right version\obj\x64\Debug\FFEA_Universe.csprojAssemblyReference.cache
